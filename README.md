@@ -17,22 +17,23 @@ class AhamedAathif:
     name       = "Ahammed Aathif Meppatta Chalil"
     location   = "Bangalore, India 🇮🇳"
     degree     = "B.Tech in Cybersecurity Engineering @ Jain University"
-    
+    portfolio  = "https://ahammed-aathif-profile6643.netlify.app/"
+
     stack = [
         "Python", "JavaScript", "SQL",
         "Flutter", "Kali Linux", "Metasploit",
         "Wireshark", "Nmap", "REST APIs"
     ]
-    
+
     currently_learning = [
         "Advanced Penetration Testing",
         "Bug Bounty Methodologies",
         "Malware Analysis & Reverse Engineering",
         "Cloud Security"
     ]
-    
+
     fun_fact   = "I turn coffee into CVEs ☕ → 🐛"
-    
+
     def motto(self):
         return "Hack to protect. Build to secure. 🔐"
 ```
@@ -41,6 +42,7 @@ class AhamedAathif:
 - 🛡️ Pursuing **Bug Bounty Hunting** and ethical hacking
 - 📱 Building **Flutter apps** and **Python automation tools**
 - 🧠 Researching **assistive technology** (NeuroBridge project)
+- 🌐 Portfolio: **[ahammed-aathif-profile6643.netlify.app](https://ahammed-aathif-profile6643.netlify.app/)**
 - 🌍 Languages: **English · Malayalam · Arabic**
 
 ---
@@ -90,7 +92,7 @@ class AhamedAathif:
 <div align="center">
 
 <a href="https://github.com/Aathi123-123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aathi123-123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aathi123-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/Aathi123-123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathi123-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
@@ -124,7 +126,7 @@ class AhamedAathif:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Aathi123-123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Aathi123-123)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Aathi123-123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/Aathi123-123)
 
 </div>
 
@@ -216,9 +218,10 @@ AI in Cybersecurity           ->  LLM Security, Prompt Injection, AI-Assisted Re
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aathi123-123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=netlify&logoColor=38bdae)](https://ahammed-aathif-profile6643.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahammed-aathif-meppatta-chalil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aathi123-123)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aathifmc@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aathi123-123&color=70a5fd&style=flat-square&label=Profile+Views)
 
