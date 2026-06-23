@@ -122,12 +122,12 @@ class AhamedAathif:
 
 ---
 
-## 🏆 Trophy Wall
-
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Aathi123-123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/Aathi123-123)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aathi123-123/Aathi123-123/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aathi123-123/Aathi123-123/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Aathi123-123/Aathi123-123/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 </div>
 
 ---
