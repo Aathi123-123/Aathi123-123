@@ -89,11 +89,11 @@ class AhamedAathif:
 
 <div align="center">
 
-<a href="https://github.com/AhamedAathif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhamedAathif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Aathi123-123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aathi123-123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/AhamedAathif">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamedAathif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Aathi123-123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathi123-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -104,7 +104,7 @@ class AhamedAathif:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhamedAathif&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aathi123-123&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -114,7 +114,7 @@ class AhamedAathif:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhamedAathif&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/AhamedAathif)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aathi123-123&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Aathi123-123)
 
 </div>
 
@@ -124,7 +124,7 @@ class AhamedAathif:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AhamedAathif&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/AhamedAathif)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Aathi123-123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Aathi123-123)
 
 </div>
 
@@ -157,10 +157,10 @@ class AhamedAathif:
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [💸 Save_Karo – Expense Tracker](https://github.com/AhamedAathif) | `SQL` `MySQL` `DBMS` | Full-stack expense system · 6 relational tables · 12 SQL queries · Category-wise reporting |
-| [📱 News Reader App](https://github.com/AhamedAathif) | `Flutter` `Dart` `REST API` | 3 public news APIs integrated · 5 content categories · Pagination & lazy loading |
-| [🤖 WhatsApp Automation](https://github.com/AhamedAathif) | `Python` `Scheduling` | Automated bulk messaging · Multi-contact scheduling · Notification triggers |
-| [👁️ Secure Face Attendance](https://github.com/AhamedAathif) | `Python` `OpenCV` `Face Recognition` | Facial-recognition attendance · Improved accuracy & automation · Secure auth layer |
+| [💸 Save_Karo – Expense Tracker](https://github.com/Aathi123-123) | `SQL` `MySQL` `DBMS` | Full-stack expense system · 6 relational tables · 12 SQL queries · Category-wise reporting |
+| [📱 News Reader App](https://github.com/Aathi123-123) | `Flutter` `Dart` `REST API` | 3 public news APIs integrated · 5 content categories · Pagination & lazy loading |
+| [🤖 WhatsApp Automation](https://github.com/Aathi123-123) | `Python` `Scheduling` | Automated bulk messaging · Multi-contact scheduling · Notification triggers |
+| [👁️ Secure Face Attendance](https://github.com/Aathi123-123) | `Python` `OpenCV` `Face Recognition` | Facial-recognition attendance · Improved accuracy & automation · Secure auth layer |
 
 </div>
 
@@ -216,26 +216,12 @@ AI in Cybersecurity           ->  LLM Security, Prompt Injection, AI-Assisted Re
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahammed-aathif-meppatta-chalil)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AhamedAathif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aathi123-123)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aathi123-123)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhamedAathif&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Aathi123-123&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-<!--
-**Aathi123-123/Aathi123-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
