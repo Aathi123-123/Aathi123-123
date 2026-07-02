@@ -85,20 +85,7 @@ class AhamedAathif:
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Aathi123-123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aathi123-123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Aathi123-123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathi123-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
 
 ---
 
