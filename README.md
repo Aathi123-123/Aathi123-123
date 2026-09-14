@@ -99,17 +99,13 @@ class AhamedAathif:
 
 ---
 
-## 📈 Activity Graph
-
----
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aathi123-123&theme=react-dark&hide_border=true&area=true)](https://github.com/Aathi123-123)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Aathi123-123)
 
 </div>
-
----
 
 ---
 
