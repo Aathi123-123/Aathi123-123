@@ -101,11 +101,15 @@ class AhamedAathif:
 
 ## 📈 Activity Graph
 
+---
+
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aathi123-123&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Aathi123-123)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aathi123-123&theme=react-dark&hide_border=true&area=true)](https://github.com/Aathi123-123)
 
 </div>
+
+---
 
 ---
 
